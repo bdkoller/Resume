@@ -6,3 +6,5 @@
 ### Colroado School of Mines
 - BSc Geophysical Engineering (2027)
 
+### Lakewood High School
+- IB Diploma Programme (2023)
