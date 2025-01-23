@@ -1,5 +1,5 @@
 # Benjamin Koller
-- Email: [mailto:bkoller@mines.edu]
+- Email:[bkoller@mines.edu](mailto:bkoller@mines.edu)
 - Location: Golden, CO
 
 ## Education
