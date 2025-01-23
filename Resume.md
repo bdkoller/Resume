@@ -1,6 +1,7 @@
 # Benjamin Koller
 - Email: [bkoller@mines.edu](mailto:bkoller@mines.edu)
 - Location: Golden, CO
+![Headshot](https://media.licdn.com/dms/image/v2/D4D03AQEL7JuRSTzHjg/profile-displayphoto-shrink_800_800/B4DZOPERyOHQAc-/0/1733272086264?e=1743033600&v=beta&t=Mur_3ipKgeMDEpbsGkZ6cu01mSh9bRH96uQxKmmHdBw)
 
 ## Education
 ### Colroado School of Mines
